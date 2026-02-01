@@ -1,170 +1,127 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=Generator content="Microsoft Word 14 (filtered)">
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:Georgia;
-	panose-1:2 4 5 2 5 4 5 2 3 3;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin:0in;
-	margin-bottom:.0001pt;
-	line-height:160%;
-	font-size:11.0pt;
-	font-family:"Arial","sans-serif";}
-h1
-	{margin-top:12.0pt;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	line-height:160%;
-	font-size:24.0pt;
-	font-family:"Arial","sans-serif";}
-h2
-	{margin-top:11.25pt;
-	margin-right:0in;
-	margin-bottom:11.25pt;
-	margin-left:0in;
-	line-height:160%;
-	font-size:18.0pt;
-	font-family:"Arial","sans-serif";
-	color:#2E7D32;}
-h3
-	{margin-top:12.0pt;
-	margin-right:0in;
-	margin-bottom:12.0pt;
-	margin-left:0in;
-	line-height:160%;
-	font-size:14.0pt;
-	font-family:"Arial","sans-serif";}
-h4
-	{margin-top:12.75pt;
-	margin-right:0in;
-	margin-bottom:12.75pt;
-	margin-left:0in;
-	line-height:160%;
-	font-size:12.0pt;
-	font-family:"Arial","sans-serif";}
-h5
-	{margin-top:12.75pt;
-	margin-right:0in;
-	margin-bottom:12.75pt;
-	margin-left:0in;
-	line-height:160%;
-	font-size:9.0pt;
-	font-family:"Arial","sans-serif";}
-h6
-	{margin-top:.25in;
-	margin-right:0in;
-	margin-bottom:.25in;
-	margin-left:0in;
-	line-height:160%;
-	font-size:8.0pt;
-	font-family:"Arial","sans-serif";}
-p.MsoTitle, li.MsoTitle, div.MsoTitle
-	{margin-top:24.0pt;
-	margin-right:0in;
-	margin-bottom:6.0pt;
-	margin-left:0in;
-	line-height:160%;
-	page-break-after:avoid;
-	font-size:36.0pt;
-	font-family:"Arial","sans-serif";
-	font-weight:bold;}
-p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
-	{margin-top:.25in;
-	margin-right:0in;
-	margin-bottom:4.0pt;
-	margin-left:0in;
-	line-height:160%;
-	page-break-after:avoid;
-	font-size:24.0pt;
-	font-family:Georgia;
-	color:#666666;
-	font-style:italic;}
-.MsoChpDefault
-	{font-family:"Arial","sans-serif";}
-.MsoPapDefault
-	{line-height:160%;}
-@page WordSection1
-	{size:8.5in 11.0in;
-	margin:1.0in 1.0in 1.0in 1.0in;}
-div.WordSection1
-	{page:WordSection1;}
- /* List Definitions */
- ol
-	{margin-bottom:0in;}
-ul
-	{margin-bottom:0in;}
--->
-</style>
+    <meta charset="UTF-8">
+    <title>Simple Agriculture Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f9f4;
+            line-height: 1.6;
+        }
 
+        header {
+            background-color: #2e7d32;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #2e7d32;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        footer {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
 </head>
+<body>
 
-<body bgcolor="#F4F9F4" lang=EN-PH>
+<header>
+    <h1>A Simple Guide to Agriculture</h1>
+    <p>Planting and Caring for Crops</p>
+</header>
 
-<div class=WordSection1>
+<section>
+    <h2>What is Agriculture?</h2>
+    <p>
+        Agriculture is the practice of growing plants and raising animals for food, 
+        materials, and other useful products. It plays an important role in providing 
+        food, supporting livelihoods, and sustaining the environment.
+    </p>
+</section>
 
-<h1>A Simple Guide to Agriculture</h1>
+<section>
+    <h2>Simple Planting Procedure</h2>
+    <ol>
+        <li><strong>Prepare the Soil</strong>
+            <ul>
+                <li>Loosen the soil to allow roots to grow easily.</li>
+                <li>Remove stones, weeds, and trash.</li>
+                <li>Add compost or organic fertilizer for nutrients.</li>
+            </ul>
+        </li>
 
-<p class=MsoNormal style='margin-bottom:11.25pt;border:none'>Planting and
-Caring for Crops</p>
+        <li><strong>Select Healthy Seeds or Seedlings</strong>
+            <ul>
+                <li>Choose seeds that are clean and free from damage.</li>
+                <li>Healthy seeds grow into strong plants.</li>
+            </ul>
+        </li>
 
-<h2 style='margin-top:0in'>What is Agriculture?</h2>
+        <li><strong>Plant the Seeds</strong>
+            <ul>
+                <li>Make small holes in the soil.</li>
+                <li>Place seeds at the correct depth.</li>
+                <li>Cover lightly with soil.</li>
+            </ul>
+        </li>
 
-<p class=MsoNormal style='margin-bottom:11.25pt;border:none'>Agriculture is the
-practice of growing plants and raising animals for food, materials, and other
-useful products. It is important for food security and environmental
-sustainability.</p>
+        <li><strong>Water the Soil</strong>
+            <ul>
+                <li>Water gently after planting.</li>
+                <li>Keep the soil moist but not flooded.</li>
+            </ul>
+        </li>
+    </ol>
+</section>
 
-<h2 style='margin-top:0in'>Simple Planting Procedure</h2>
+<section>
+    <h2>How to Take Care of the Plant</h2>
+    <ul>
+        <li><strong>Watering</strong>
+            <p>Water the plants regularly, especially during dry days. Avoid overwatering.</p>
+        </li>
 
-<p class=MsoNormal style='margin-left:30.0pt;text-indent:-.25in;border:none'><span
-style='color:black'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span>Prepare the soil by loosening and removing weeds.</p>
+        <li><strong>Sunlight</strong>
+            <p>Most plants need 6–8 hours of sunlight daily to grow healthy.</p>
+        </li>
 
-<p class=MsoNormal style='margin-left:30.0pt;text-indent:-.25in;border:none'><span
-style='color:black'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span>Select healthy seeds or seedlings.</p>
+        <li><strong>Weeding</strong>
+            <p>Remove weeds regularly so they do not compete with plants for nutrients.</p>
+        </li>
 
-<p class=MsoNormal style='margin-left:30.0pt;text-indent:-.25in;border:none'><span
-style='color:black'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span>Plant seeds at the correct depth.</p>
+        <li><strong>Fertilizing</strong>
+            <p>Add organic fertilizer or compost to improve plant growth.</p>
+        </li>
 
-<p class=MsoNormal style='margin-left:30.0pt;text-indent:-.25in;border:none'><span
-style='color:black'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-</span></span>Water the soil gently after planting.</p>
+        <li><strong>Pest Control</strong>
+            <p>Check plants for insects and remove pests manually or use natural methods.</p>
+        </li>
+    </ul>
+</section>
 
-<h2>How to Take Care of the Plant</h2>
-
-<p class=MsoNormal style='margin-left:30.0pt;text-indent:-.25in;border:none'><span
-style='color:black'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Water regularly but do not overwater.</p>
-
-<p class=MsoNormal style='margin-left:30.0pt;text-indent:-.25in;border:none'><span
-style='color:black'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Provide enough sunlight.</p>
-
-<p class=MsoNormal style='margin-left:30.0pt;text-indent:-.25in;border:none'><span
-style='color:black'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Remove weeds.</p>
-
-<p class=MsoNormal style='margin-left:30.0pt;text-indent:-.25in;border:none'><span
-style='color:black'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Add fertilizer when needed.</p>
-
-<p class=MsoNormal style='margin-left:30.0pt;text-indent:-.25in;border:none'><span
-style='color:black'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span>Protect plants from pests.</p>
-
-<p class=MsoNormal style='border:none'>� 2026 Simple Agriculture Webpage</p>
-
-</div>
+<footer>
+    <p>&copy; 2026 Simple Agriculture Webpage</p>
+</footer>
 
 </body>
-
 </html>
